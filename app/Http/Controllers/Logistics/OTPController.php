@@ -1,6 +1,7 @@
 <?php
 
 namespace App\Http\Controllers\Logistics;
+
 use Session;
 use Auth;
 use DB;
