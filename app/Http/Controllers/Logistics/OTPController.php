@@ -53,6 +53,7 @@ $lastmobilehidden=substr($result->data,-2);
         'firstmobile'=> $firstmobilehidden
   ));
   
+
  return redirect('otp');
 }
 }
